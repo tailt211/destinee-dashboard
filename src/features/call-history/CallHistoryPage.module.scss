@@ -1,0 +1,11 @@
+.multiSelectName {
+    background: white;
+    border-radius: 0.375rem;
+    width: 100%;
+}
+
+@media (max-width: 576px) {
+    .multiSelectName {
+        width: 100%;
+    }
+}

@@ -1,0 +1,6 @@
+.active {
+    & > div {
+        background-color: var(--chakra-colors-teal-400);
+        color: white;
+    }
+}
